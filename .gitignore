@@ -3,6 +3,8 @@
 .env
 
 gatsby-config.js
+gatsby-browser.js
+gatsby-ssr.js
 
 /.vscode
 
